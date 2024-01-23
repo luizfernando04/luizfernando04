@@ -1,4 +1,4 @@
-     Eu sou o Luiz Fernando.Programador Font-end, atualmente estou trabalhando e aprendendo projetos com:
+     Eu sou o Luiz Fernando.Programador Font-end, atualmente estou trabalhando com projetos que contém as seguintes tecnologias:
    
   - <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=html-logo /><a/>
    
